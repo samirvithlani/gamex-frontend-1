@@ -1,0 +1,13 @@
+.all-player{
+    text-align: left;
+}
+
+.all-checkbox{
+    margin-left: 95%;
+    margin-top: -8%;
+}
+
+input[type=checkbox]:checked {
+    border-color: #b8e503;
+    color: #b8e503;
+}
